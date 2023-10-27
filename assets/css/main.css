@@ -2102,7 +2102,7 @@ input, select, textarea {
 		border: 0;
 		border: solid 1px #dddddd;
 		border-radius: 0;
-		color: inherit;
+		color: #000000;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
